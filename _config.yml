@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: 안구민 블로그                          # the main title
 
-tagline: 어서오세요   # it will display as the sub-title
+tagline: 어서오세요                     # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
